@@ -6,7 +6,7 @@
 
 <div style="text-align: center">
   <h3>
-    <a href="https://note-code-app.netlify.app/">
+    <a href="https://note-code-williamvp.vercel.app/">
       Solution
     </a>
     <span> | </span>

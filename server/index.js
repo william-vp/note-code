@@ -12,9 +12,6 @@ app.use(cors(optionsCors)); //enable cors
 app.use(express.json({extended: true})); //enable express.json
 const port = process.env.PORT || 4000; //port env | default
 
-//habilitar carpeta public uploads /fileURL
-app.use(express.static('uploads'));
-
 app.use(bodyParser.urlencoded({
     extended: true
 }));
